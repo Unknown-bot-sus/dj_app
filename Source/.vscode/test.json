@@ -1,0 +1,22 @@
+{
+  "configurations": [
+    {
+      "name": "Linux",
+      "includePath": [
+        "/home/tls/UOL/oop/DJ_App/JuceLibraryCode/**",
+        "${workspaceFolder}/**",
+        "~/JUCE/modules/**"
+      ],
+      "browse": {
+        "limitSymbolsToIncludedHeaders": false,
+        "path": ["${workspaceFolder}/**", "~/JUCE/modules/**"]
+      },
+      "defines": [],
+      "compilerPath": "/usr/bin/g++",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "clang-x64"
+    }
+  ],
+  "version": 4
+}
